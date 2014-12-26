@@ -1,0 +1,12 @@
+#
+# Makefile
+#
+# Computer Science 50
+# Problem Set 4
+#
+
+breakout: breakout.c Makefile
+	clang -ggdb3 -Ispl/include -O0 -st
+
+clean:
+	rm -f *.o core breakout
