@@ -1,0 +1,23 @@
+0.  TODO
+    It is the longest word in the English langugage and describes a lung disease. It is 45 letters long.
+1.  TODO
+    getrusage indicates the resource usage measurements.
+2.  TODO
+    16
+3.  TODO
+    It is the more efficient way as it doesn't involve copying the entire struct.
+4.  TODO
+    The for loop spell checks each word character-by-character. It appends chracters to the word array while ignoring
+    numbers and strings that have more than the given, fixed length. Then, once it reaches the end of the string, the function
+    prepares for a new word. Once a whole word is found, the current word in the word array is terminated, the counter is updated,
+    and the spelling is checked. If the word is misspelled, the function prints that word. Then it once again prepares
+    for the next word.
+5.  TODO
+    Using fgetc enables us to read the text character by character instead of complete strings as fscanf would. This helps us to detect if
+    the character is alphanumeric or a symbol.
+6.  TODO
+    Check and load shouldn't be altered and declaring them as constant achieves the exact same functionality.
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO
