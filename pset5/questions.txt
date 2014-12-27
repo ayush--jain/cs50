@@ -1,0 +1,60 @@
+0.  TODO
+    JPEG supports a max of 16 million colors. GIF supports a max of 256 colors. BMP supports a max of 4 billion colors. PNG supports a max of 256 tetracolors.
+    
+1.  TODO
+    GIF supports animation.
+
+2.  TODO
+    Lossless compression images produces images that are small in size but do not loose details in the image and hence preserve all the information present in the image.
+    Lossy compression images are even smaller in size and loose some information present in the image.
+
+3.  TODO
+    JPEG images are an example of lossy compression images.
+
+4.  TODO
+    When a file is deleted in a FAT system, the metadata indicating the adress of the memory block is removed and the actual file continues to live on the disk. This can be recovered.
+
+5.  TODO
+    Overwrite deleted data with other data and cleaning up free space.
+
+6.  TODO
+    It is a header file that containes integer types of specific widths. (width of an integer is the number of bits it takes up in its binary representation)
+    
+7.  TODO
+    intN_t denotes a signed integer of width N bits.
+    uintN_t denotes an unsigned integer of width N bits.
+    
+8.  TODO
+    A BYTE has 8 bits, a DWORD has 32 bits, LONG is 32 bits, WORD is 16 bit.
+    
+9.  TODO
+    BM
+    
+10. TODO
+    bfsize represents the size of the bitmap file
+    bisize represents the size of the struct BITMAPINFOHEADER in bytes.
+    
+11. TODO
+    if biHeight is negative, it implies that the device idependent bitmap is a non inverted image with origin at the lower left corner.
+    
+12. TODO
+    biBitCount
+
+13. TODO
+    write function isn't possible because of disk space, authorization, etc.
+    
+14. TODO
+    the third argument reads nmemb or the number of elements of size "size". Since only 1 element is being read that is the bmp file, hence 1 is used everywhere.
+    
+15. TODO
+    (4 - 9 % 4) % 4
+    = 3
+
+16. TODO
+    fseek helps to relocate the file pointer in the file.
+    
+17. TODO
+    can be used with other functions to seek the current file pointer.
+    
+18. TODO
+    Milo Banana dun it.
